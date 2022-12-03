@@ -1,5 +1,11 @@
 # 弹幕情感分类
 
+## 运行方法
+
+先运行data_preprocess.ipynb，得到预处理后的数据集，在运行train&test.ipynb进行训练与测试
+
+## 数据集
+
 数据集来源：https://github.com/MelkiorOno/DanmakuMarked-data
 
 数据使用utf-8编码，逗号分隔的csv保存
@@ -10,5 +16,16 @@
 
 标注类别：0高兴、1难过、2愤怒、3惊讶、4负样本
 
-## 数据预处理
+---
 
+## 算法流程
+
+### 数据预处理
+
+### 模型定义
+
+BiLSTM
+
+### 训练
+
+### 测试
