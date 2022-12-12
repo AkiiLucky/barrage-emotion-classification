@@ -22,10 +22,15 @@
 
 ### 数据预处理
 
+- 去除空值、异常值
+- jieba分词
+- word2vec
+- 标签onehot编码
+
 ### 模型定义
 
-BiLSTM
+- LSTM
+- BiLSTM
 
-### 训练
-
-### 测试
+### 测试结果
+![Alt text](test-resualt.jpg)
