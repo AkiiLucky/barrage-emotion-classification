@@ -2,7 +2,7 @@
 
 ## 运行方法
 
-先运行data_preprocess.ipynb，得到预处理后的数据集，在运行train&test.ipynb进行训练与测试
+先运行data_preprocess.ipynb，得到预处理后的数据集，在运行BiLSTM.ipynb或LSTM.ipynb进行训练与测试
 
 ## 数据集
 
@@ -16,7 +16,7 @@
 
 标注类别：0高兴、1难过、2愤怒、3惊讶、4负样本
 
----
+
 
 ## 算法流程
 
