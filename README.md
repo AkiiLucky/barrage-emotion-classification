@@ -2,7 +2,7 @@
 
 ## 运行方法
 
-先运行data_preprocess.ipynb，得到预处理后的数据集，在运行BiLSTM.ipynb或LSTM.ipynb进行训练与测试
+先运行data_preprocess.ipynb，得到预处理后的数据集，再运行BiLSTM.ipynb或LSTM.ipynb进行训练与测试
 
 ## 数据集
 
@@ -31,6 +31,8 @@
 
 - LSTM
 - BiLSTM
+
+### 模型训练及测试
 
 ### 测试结果
 ![Alt text](test-resualt.jpg)
