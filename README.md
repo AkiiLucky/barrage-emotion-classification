@@ -35,6 +35,6 @@
 ### 测试结果
 ![Alt text](test-resualt.jpg)
 
-## 安全
------
+## Secuity
+
 [![Security Status](https://s.murphysec.com/badge/AkiiLucky/barrage-emotion-classification.svg)](https://www.murphysec.com/p/AkiiLucky/barrage-emotion-classification)
